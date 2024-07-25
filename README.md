@@ -1,4 +1,4 @@
-![adiOS logo](./img/Coat_of_arms_of_Mexico.svg.png)
+![adiOS logo](./img/mexico.png)
 
 # adiOS
 
