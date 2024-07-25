@@ -1,4 +1,4 @@
-![adiOS logo](./img/mexico.png)
+![adiOS logo](./img/mexlogo.png)
 # adiOS
 
 <b>A</b>ttractive <b>D</b>igital <b>I</b>nterface <b>O</b>perating <b>S</b>ystem<br><br>
