@@ -1,4 +1,9 @@
-![adiOS logo](./img/mexlogo.png)
+
+<div style="text-align:center">
+  <img src="./img/mexlogo.png"  alt="adiOS"/>
+</div>
+
+[//]: # (![adiOS logo]&#40;./img/mexlogo.png&#41;)
 # adiOS
 
 <b>A</b>ttractive <b>D</b>igital <b>I</b>nterface <b>O</b>perating <b>S</b>ystem<br><br>
